@@ -1,0 +1,11 @@
+button:hover{
+    background-color: aqua;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+button:active{
+    background-color: yellow;
+}
+body{
+    background-color: yellowgreen;
+}
